@@ -11,3 +11,7 @@ How to address merge conflicts
 
 All of this content added to the readme file has been added from my remote GitHub repository.
 >>>>>>> 8bec28ab99695641bfd72910af2e3734c5fadf73
+
+  ```bash
+  # THIS GUY IS FROM GITHUB
+  ```
